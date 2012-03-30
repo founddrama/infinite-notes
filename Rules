@@ -16,6 +16,9 @@
 compile '/stylesheet/' do
   # don’t filter or layout
 end
+compile '/normalize/' do
+  # don’t filter or layout
+end
 
 compile '*' do
   if item.binary?
@@ -29,6 +32,10 @@ end
 
 route '/stylesheet/' do
   '/style.css'
+end
+
+route '/normalize/' do
+  '/normalize.min.css'
 end
 
 route '*' do
