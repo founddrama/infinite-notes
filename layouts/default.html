@@ -3,10 +3,14 @@
   <head>
     <meta charset="utf-8">
     <title>Infinite Jest: notes etc. - <%= @item[:title] %></title>
+    <link rel="stylesheet" type="text/css" href="/normalize.min.css" media="screen">
     <link rel="stylesheet" type="text/css" href="/style.css" media="screen">
     <meta name="generator" content="nanoc 3.3.2">
   </head>
   <body>
+    <div id="header">
+      <h1><a href="/"><em>Infinite Jest</em>: Notes etc.</a></h1>
+    </div>
     <div id="main">
       <%= yield %>
     </div>
@@ -16,8 +20,9 @@
         <li><a href="/characters/">Characters</a></li>
         <li>Locations</li>
         <li>Themes</li>
+        <li>Timeline</li>
+        <li><a href="/words/">Words</a></li>
       </ul>
-      <a href="/">home</a>
     </div>
   </body>
 </html>
