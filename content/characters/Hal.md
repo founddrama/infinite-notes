@@ -3,12 +3,11 @@ title: Hal Incandenza
 ---
 
 Harold (Hal) Incandenza
-=======================
+-----------------------
 
 Our nominal narrator and (anti?) hero.
 
-*I cannot make myself understood.*
-----------------------------------
+<h3>*I cannot make myself understood.*</h3>
 
 Novel opens with Hal's first-person narration. November in the Year of Glad, down at the University of Arizona; his smile is more of a grimace, his words are incomprehensible.
 
@@ -23,3 +22,18 @@ RE: mold (Weston, MA) -- as a child
 > "He's fine when he's by himself."
 
 (Hal as introvert? introducing a theme there?)
+
+<h3>Year of the Tucks Medicated Pad</h3>
+
+* Hal is 13 ("will be in June")
+* Himself is still alive
+  * and has this persistent hallucination that Hal does not speak
+* the discussion of *implore* and other words
+* pp. 29 - 1st mention of [Byzantine erotica](/misc/Byzantine-erotica)
+
+> That's *Webster's Seventh*. That's not the *O.E.D.*
+
+THEORY: Hal as HAL
+------------------
+* Hal : HAL 9000 :: Himself : Stanley Kubrick
+* Hal as a machine, so programmed, that comes undone
