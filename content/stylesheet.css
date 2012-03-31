@@ -56,6 +56,16 @@ a:hover {
   list-style-type: square;
 }
 
+#main blockquote {
+  border-left: #ccc 12px solid;
+  padding: 4px 0 4px 12px;
+}
+
+#main blockquote p {
+  color: #666;
+  font-size: 18px;
+}
+
 #sidebar {
   position: absolute;
 

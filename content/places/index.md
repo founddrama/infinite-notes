@@ -1,0 +1,5 @@
+---
+title: Places
+---
+
+* [Bathrooms](bathrooms)

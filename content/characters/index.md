@@ -8,4 +8,5 @@ title: Characters
   * Orin
   * [Hal](/characters/Hal/)
   * Mario
+* [C.T.](/characters/CT)
 * Don Gately
