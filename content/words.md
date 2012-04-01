@@ -11,7 +11,7 @@ title: Words
   * *pp. 5* - from Kekulé, Frederich August (1829-96) - discovered ring
     structure of benzene
 * lapidary
-* -phylacteryish- *phylactery* ([Tefillin](http://en.wikipedia.org/wiki/Tefillin))
+* <strike>phylacteryish</strike> *phylactery* ([Tefillin](http://en.wikipedia.org/wiki/Tefillin))
 * pleurisy
 * Wedekind festival? (pp. 21; [Franz Wedekind](http://books.google.com/books/about/Frank_Wedekind.html?id=lk4HAQAAMAAJ)?)
 * wen

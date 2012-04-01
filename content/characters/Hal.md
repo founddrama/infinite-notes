@@ -7,7 +7,7 @@ Harold (Hal) Incandenza
 
 Our nominal narrator and (anti?) hero.
 
-<h3>*I cannot make myself understood.*</h3>
+<h3><em>I cannot make myself understood.</em></h3>
 
 Novel opens with Hal's first-person narration. November in the Year of Glad, down at the University of Arizona; his smile is more of a grimace, his words are incomprehensible.
 
