@@ -1,9 +1,9 @@
 ---
-title: Himself
+title: James O. Incandenza (Himself)
 ---
 
-Himself
--------
+James O. Incandenza (Himself)
+-----------------------------
 
 The patriarch of the Incandenza family.
 

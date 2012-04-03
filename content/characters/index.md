@@ -4,12 +4,12 @@ title: Characters
 
 * The Incandenza Family
   * [Himself](/characters/Himself)
-  * Avril
+  * [Avril](/characters/Avril)
   * [Orin](/characters/Orin)
   * [Hal](/characters/Hal)
   * [Mario](/characters/Mario)
 * [C.T.](/characters/CT)
-* Don Gately
+* [Don Gately](/characters/Don_Gately)
 * Bruce Green + Mildred Bonk
 * [Erdedy](/characters/Erdedy)
 * Quebecois Separatists
@@ -20,3 +20,7 @@ title: Characters
   * Reginald
   * Wardine
   * Roy Tony
+* E.T.A.: students
+  * [Jim Troeltsch](/characters/Jim_Troeltsch)
+  * Michael Pemulis
+  * Ortho Stice
