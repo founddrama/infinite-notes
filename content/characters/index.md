@@ -12,6 +12,8 @@ title: Characters
 * [Don Gately](/characters/Don_Gately)
 * Bruce Green + Mildred Bonk
 * [Erdedy](/characters/Erdedy)
+* [Kate Gompert](/characters/Kate_Gompert)
+* [Tiny Ewell](/characters/Tiny_Ewell)
 * Quebecois Separatists
   * Avril?
   * M. DuPlessis 

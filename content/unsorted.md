@@ -1,0 +1,10 @@
+---
+title: Unsorted / Miscellaneous
+---
+
+* [<em>Infinite Jest</em> at Small Demons](http://www.smalldemons.com/books/Infinite_Jest_David_Foster_Wallace_(1996))
+* [View from the Cage](http://petebaer.blogspot.com/)
+* [Kottke's "How to Read <em>Infinite Jest</em>"](http://kottke.org/09/07/how-to-read-infinite-jest)
+* [thehowlingfantods.com](http://www.thehowlingfantods.com/inf.htm)
+* http://infinitejest.wallacewiki.com/david-foster-wallace/index.php?title=Main_Page
+* [Infinite Summer](http://infinitesummer.org/)

@@ -9,3 +9,5 @@ Avril Mondragon Incandenza
 
 Mother to [Orin](/characters/Orin), [Mario](/characters/Mario), and [Hal](/characters/Hal);
 [Himself's](/characters/Himself) widow. "Militant Grammarian".
+
+* pp. 64 : ...as involved w/ Quebecois Separatists
