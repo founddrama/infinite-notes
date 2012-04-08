@@ -5,6 +5,7 @@ title: Words
 * *ad valorem*
 * annular - *ring shaped*
 * apocopes
+* [candidiatic](http://en.wikipedia.org/wiki/Candidiasis)
 * cardiod = ♥
 * caries - *decay and crumbling of a tooth or bone*
 * concupiscence

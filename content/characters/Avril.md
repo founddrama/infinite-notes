@@ -11,3 +11,4 @@ Mother to [Orin](/characters/Orin), [Mario](/characters/Mario), and [Hal](/chara
 [Himself's](/characters/Himself) widow. "Militant Grammarian".
 
 * pp. 64 : ...as involved w/ Quebecois Separatists
+* previously involved with the medical attaché?

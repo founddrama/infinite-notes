@@ -8,3 +8,4 @@ title: Unsorted / Miscellaneous
 * [thehowlingfantods.com](http://www.thehowlingfantods.com/inf.htm)
 * http://infinitejest.wallacewiki.com/david-foster-wallace/index.php?title=Main_Page
 * [Infinite Summer](http://infinitesummer.org/)
+* [scene-by-scene guide](http://faculty.sunydutchess.edu/oneill/Infinite.htm)
