@@ -11,24 +11,29 @@
     <div id="header">
       <h1><a href="/"><em>Infinite Jest</em>: Notes etc.</a></h1>
     </div>
-    <div id="main">
-      <%= yield %>
+    <div class="container">
+      <div id="main">
+        <%= yield %>
+      </div>
+      <div id="sidebar">
+        <h2>Topics</h2>
+        <ul>
+          <li><a href="/characters/">Characters</a></li>
+          <li><a href="/places/">Places</a></li>
+          <li><a href="/themes/">Themes</a></li>
+          <li><a href="/timeline/">Timeline</a></li>
+          <li><a href="/words/">Words</a></li>
+        </ul>
+        <h2>Get the Notes</h2>
+        <ul>
+          <li><a href="https://github.com/founddrama/infinite-notes">on Github</a></li>
+        </ul>
+        <h2>Read Along</h2>
+        <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=founddramadot-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0316066524" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
     </div>
-    <div id="sidebar">
-      <h2>Topics</h2>
-      <ul>
-        <li><a href="/characters/">Characters</a></li>
-        <li><a href="/places/">Places</a></li>
-        <li><a href="/themes/">Themes</a></li>
-        <li><a href="/timeline/">Timeline</a></li>
-        <li><a href="/words/">Words</a></li>
-      </ul>
-      <h2>Get the Notes</h2>
-      <ul>
-        <li><a href="https://github.com/founddrama/infinite-notes">on Github</a></li>
-      </ul>
-      <h2>Read Along</h2>
-      <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=founddramadot-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0316066524" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+    <div id="footer">
+      <a href="/errata/">Errata</a>
     </div>
     <script type="text/javascript">
       var _gaq = _gaq || [];

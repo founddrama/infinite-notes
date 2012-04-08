@@ -38,6 +38,7 @@ RE: mold (Weston, MA) -- as a child
 * "Hal likes to get high in secret..." - but is more attached to the secrecy
 * pp. 49 - 1st appearance of the one-hitter
 * [Avril](/characters/Avril) never leaves the grounds
+* Nov. 6th - first appearance of the NASA cup and Hal's spitting.
 
 > 
 

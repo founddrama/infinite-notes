@@ -31,5 +31,6 @@ title: Characters
   * [Erdedy](/characters/Erdedy)
   * [Kate Gompert](/characters/Kate_Gompert)
   * [Tiny Ewell](/characters/Tiny_Ewell)
+  * [Randy Lenz](/characters/Randy_Lenz)
 * [M. Hugh "Helen" Steeply](/characters/Steeply)
 * [Marathe](/characters/Marathe)
