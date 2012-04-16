@@ -2,7 +2,7 @@
 title: James O. Incandenza (Himself)
 ---
 
-James O. Incandenza (Himself)
+James O. Incandenza (Himself; the Mad/Sad Stork)
 -----------------------------
 
 The patriarch of the Incandenza family.

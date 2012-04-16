@@ -2,7 +2,7 @@
 title: Hal Incandenza
 ---
 
-Harold (Hal) Incandenza
+Harold James (Hal) Incandenza
 -----------------------
 
 Our nominal narrator and (anti?) hero. Aged 17 during much of "the action" of the story, the events during YDAU.
@@ -32,6 +32,19 @@ RE: mold (Weston, MA) -- as a child
 * pp. 29 - 1st mention of [Byzantine erotica](/misc/Byzantine-erotica)
 
 > That's *Webster's Seventh*. That's not the *O.E.D.*
+
+**LATER THAT SAME YEAR**
+
+* Hal found [Himself's](/characters/Himself) body
+  * found Himself with his head in the microwave
+
+> something smells delicious
+
+**Hal's Grief Therapy**
+
+* re: consumed by trying to "pass" grief therapy (like it's a test)
+* not actually processing the grief itself
+  * (does he even need to? (see also: "Hal as HAL 9000"?))
 
 <h3>Year of the Depends Adult Undergarment</h3>
 

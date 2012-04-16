@@ -2,6 +2,8 @@
 title: Words
 ---
 
+* "Actaeon Complex"
+  * (*ed.* best explanation I can find: [link](http://infinitejest.wallacewiki.com/david-foster-wallace/index.php?title=Pages_283-306))
 * *ad valorem*
 * annular - *ring shaped*
 * apocopes
@@ -22,9 +24,13 @@ title: Words
 * lapidary
 * [leptosomatic](http://medical-dictionary.thefreedictionary.com/leptosomatic) - *slender, light, or slim body*wo
 * palestra
+* **paroxysmic** • *paroxysm* : "a sudden attack or violent expression of a particular emotion or activity"
 * <del>phylacteryish</del> <ins>phylactery</ins>
   * ([Tefillin](http://en.wikipedia.org/wiki/Tefillin))
 * pleurisy
+* "rodneys" (pp. 246)
+  * *ed. note:* can find no working definition
+  * "rodneys and gum" (so...: condoms? candy? cigarettes?)
 * *sui testator* ([source](http://petebaer.blogspot.com/2008/12/notes-from-jest-pages-32-64.html))
   * «as near as I can tell, this is Latin for “in its own creator of a valid will”»
 * Wedekind festival? (pp. 21; [Franz Wedekind](http://books.google.com/books/about/Frank_Wedekind.html?id=lk4HAQAAMAAJ)?)
