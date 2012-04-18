@@ -1,9 +1,11 @@
 ---
-title: Erdedy
+title: Ken Erdedy
 ---
 
-Erdedy
-------
+Ken Erdedy
+----------
+
+"college boy ad exec"
 
 Worrying over:
 

@@ -22,12 +22,21 @@ title: Characters
   * students
     * [Jim Troeltsch](/characters/Jim_Troeltsch)
     * Michael Pemulis
-    * Ortho Stice
+    * [Ortho ('The Darkness') Stice](/characters/Ortho)
+    * [Kyle D. Coyle](/characters/Coyle)
     * Trevor Axford
     * [Schacht](/characters/Schacht)
+    * Otis P. Lord
+    * Evan Ingersoll
+    * Josh Gopnik
+    * J.J. Penn
+    * Ann Kittenplan
+    * Todd Possalthwaite
+    * LaMont Chu
+    * Timmy Peterson
   * faculty/staff
     * [Charles Tavis](/characters/CT) (head master)
-    * Gerhardy Schtitt
+    * Gerhardt Schtitt
     * Tex Watson (prorector)
     * Corbett Thorpe (prorector)
     * Mlle. Thierry Poutrincourt (prorector)
@@ -45,11 +54,13 @@ title: Characters
     * Hester Thrale
     * Emil Minty
     * Burt F. Smith
-    * Nell Gunther
+    * [Nell Gunther](/characters/Nell_Gunther)
   * staff
     * [Don Gately](/characters/Don_Gately)
     * Pat Montesian (director)
     * Calvin Thrust
     * Johnette Foltz
+    * [Gene M.](/characters/Gene_M)
 * [M. Hugh "Helen" Steeply](/characters/Steeply)
 * [Marathe](/characters/Marathe)
+* Ferocious Francis (Boston AA)

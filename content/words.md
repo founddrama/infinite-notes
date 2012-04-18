@@ -15,6 +15,8 @@ title: Words
 * deliquesce - *become liquid*
 * dipsomaniacal
 * effete
+* *Gaudeamus Igitur* (Latin)
+  * roughly: "let us rejoice"
 * [homolosine](http://en.wikipedia.org/wiki/Homolosine)
 * howling fantods (pp. 45)
 * Kekuléan knot
