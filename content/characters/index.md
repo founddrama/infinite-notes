@@ -13,6 +13,7 @@ title: Characters
   * M. DuPlessis 
   * Luria P.--
   * [Antitoi Bros.](/characters/Antitoi_Brothers)
+  * [Marathe](/characters/Marathe)
 * the Brighton projects
   * Reginald
   * Wardine
@@ -43,6 +44,7 @@ title: Characters
     * [Mary Esther Thode](/characters/Mary_Esther_Thode) (prorector)
   * misc.
     * [Lyle](/characters/Lyle)
+    * Kenkle &amp; Brandy (janitors)
 * Ennet House Drug and Alcohol Recovery House (*sic*)
   * residents
     * [Bruce Green](/characters/Bruce_Green)
@@ -62,5 +64,4 @@ title: Characters
     * Johnette Foltz
     * [Gene M.](/characters/Gene_M)
 * [M. Hugh "Helen" Steeply](/characters/Steeply)
-* [Marathe](/characters/Marathe)
 * Ferocious Francis (Boston AA)
