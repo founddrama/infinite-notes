@@ -2,8 +2,8 @@
 title: Gene M.
 ---
 
-Gene M.
--------
+Eugenio Martinez (Gene M.)
+--------------------------
 
 A staffer at [Ennet House](/places/Ennet_House).
 

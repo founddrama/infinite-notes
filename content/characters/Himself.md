@@ -27,6 +27,8 @@ The patriarch of the Incandenza family.
 * in the Year of the Trial Size Dove Bar
   * at age 54
 * buried at Québec's L'Islet County
+* [Clipperton](/characters/Clipperton) suicide footage (allegedly) buried with him
+  * see pp. 408, fn. 160
 
 <h3>Filmography</h3>
 

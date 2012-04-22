@@ -46,6 +46,16 @@ RE: mold (Weston, MA) -- as a child
 * not actually processing the grief itself
   * (does he even need to? (see also: "Hal as HAL 9000"?))
 
+<h3>Year of the Perdue Wonderchicken</h3>
+
+* Hal's essays for Oglivie's class
+
+> ...case-study in the eschatology of emotional appeals.
+
+(pp. 414)
+
+re: Hal's paper on advertising (esp. w/r/t/ V+V ad spots for NoCoat tongue scrapers)
+
 <h3>Year of the Depends Adult Undergarment</h3>
 
 * "Hal likes to get high in secret..." - but is more attached to the secrecy
@@ -53,7 +63,7 @@ RE: mold (Weston, MA) -- as a child
 * [Avril](/characters/Avril) never leaves the grounds
 * Nov. 6th - first appearance of the NASA cup and Hal's spitting.
 
-> 
+<hr />
 
 THEORY: Hal as HAL
 ------------------

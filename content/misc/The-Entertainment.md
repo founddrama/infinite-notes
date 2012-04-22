@@ -14,3 +14,5 @@ An unfilmable (???) film, created by [Himself](/characters/Himself). Said to be
   * it bears a smiley face and envelope reads "HAPPY ANNIVERSARY!"
   * return address points to Phoenix, AZ
   * the cartridge is otherwise unmarked
+
+Marathe and Steeply discuss theories about it. (pp. 490-491)

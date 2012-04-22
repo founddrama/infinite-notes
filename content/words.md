@@ -15,6 +15,7 @@ title: Words
 * deliquesce - *become liquid*
 * dipsomaniacal
 * effete
+* escutcheon
 * *Gaudeamus Igitur* (Latin)
   * roughly: "let us rejoice"
 * [homolosine](http://en.wikipedia.org/wiki/Homolosine)
@@ -25,6 +26,8 @@ title: Words
 * [latrodectus](http://en.wikipedia.org/wiki/Latrodectus) - "widow spiders"
 * lapidary
 * [leptosomatic](http://medical-dictionary.thefreedictionary.com/leptosomatic) - *slender, light, or slim body*wo
+* Merry Widow - *a type of [corselet](http://en.wikipedia.org/wiki/Corselet)*
+* misprision
 * palestra
 * **paroxysmic** • *paroxysm* : "a sudden attack or violent expression of a particular emotion or activity"
 * <del>phylacteryish</del> <ins>phylactery</ins>
@@ -32,8 +35,10 @@ title: Words
 * pleurisy
 * "rodneys" (pp. 246)
   * *ed. note:* can find no working definition
-  * "rodneys and gum" (so...: condoms? candy? cigarettes?)
+  * "rodneys and gum" (<del>so...: condoms? candy?</del> *cigarettes* pp. 522)
+ * saprogenic
 * *sui testator* ([source](http://petebaer.blogspot.com/2008/12/notes-from-jest-pages-32-64.html))
   * «as near as I can tell, this is Latin for “in its own creator of a valid will”»
+* tulle
 * Wedekind festival? (pp. 21; [Franz Wedekind](http://books.google.com/books/about/Frank_Wedekind.html?id=lk4HAQAAMAAJ)?)
 * wen

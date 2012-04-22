@@ -22,10 +22,10 @@ title: Characters
 * E.T.A.
   * students
     * [Jim Troeltsch](/characters/Jim_Troeltsch)
-    * Michael Pemulis
+    * [Michael Pemulis](/characters/Pemulis)
     * [Ortho ('The Darkness') Stice](/characters/Ortho)
     * [Kyle D. Coyle](/characters/Coyle)
-    * Trevor Axford
+    * [Trevor ('Axhandle') Axford](/characters/Axford)
     * [Schacht](/characters/Schacht)
     * Otis P. Lord
     * Evan Ingersoll
@@ -35,16 +35,26 @@ title: Characters
     * Todd Possalthwaite
     * LaMont Chu
     * Timmy Peterson
+    * Petropolis Kahn ('Wooly Mammoth')
+    * Tina Echt (7 y.o., tiny)
+    * Erica Siress
+    * Jolene Criess
   * faculty/staff
     * [Charles Tavis](/characters/CT) (head master)
     * Gerhardt Schtitt
     * Tex Watson (prorector)
-    * Corbett Thorpe (prorector)
+    * [Corbett Thorpe](/characters/Corbett_Thorpe) (prorector)
     * Mlle. Thierry Poutrincourt (prorector)
     * [Mary Esther Thode](/characters/Mary_Esther_Thode) (prorector)
+    * Neil Hartigan (prorector)
+    * Tony Nwangi (prorector)
+    * Rik Dunkel (prorector)
+    * "Lateral" Alice Moore
+      * origin story pp. 310
+    * Dolores Rusk (psychologist)
   * misc.
     * [Lyle](/characters/Lyle)
-    * Kenkle &amp; Brandy (janitors)
+    * Kenkle &amp; Brand (janitors)
 * Ennet House Drug and Alcohol Recovery House (*sic*)
   * residents
     * [Bruce Green](/characters/Bruce_Green)
@@ -57,11 +67,21 @@ title: Characters
     * Emil Minty
     * Burt F. Smith
     * [Nell Gunther](/characters/Nell_Gunther)
+    * Doony Glynn
+      * (the worker's comp guy)
+    * Wade McDade
+    * April Cortelyn
+    * Amy J.
+    * [Joelle Van Dyne](/characters/Joelle)
   * staff
-    * [Don Gately](/characters/Don_Gately)
     * Pat Montesian (director)
+    * Annie Parrot (asst. director)
+    * [Don Gately](/characters/Don_Gately) (live-in staff)
+    * Johnette Foltz (live-in staff)
     * Calvin Thrust
-    * Johnette Foltz
-    * [Gene M.](/characters/Gene_M)
+    * [Gene M.](/characters/Gene_M) (Eugenio Martinez)
+    * Danielle Steenbok
+      * "leggy alumna and part-time counselor" (pp. 462)
 * [M. Hugh "Helen" Steeply](/characters/Steeply)
 * Ferocious Francis (Boston AA)
+* [Clipperton](/characters/Clipperton)
