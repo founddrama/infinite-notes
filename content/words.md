@@ -5,6 +5,7 @@ title: Words
 * "Actaeon Complex"
   * (*ed.* best explanation I can find: [link](http://infinitejest.wallacewiki.com/david-foster-wallace/index.php?title=Pages_283-306))
 * *ad valorem*
+* anaclitic
 * annular - *ring shaped*
 * apocopes
 * [candidiatic](http://en.wikipedia.org/wiki/Candidiasis)

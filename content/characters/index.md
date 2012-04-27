@@ -21,36 +21,43 @@ title: Characters
   * [Poor Tony Krause](/characters/Poor_Tony)
 * E.T.A.
   * students
-    * [Jim Troeltsch](/characters/Jim_Troeltsch)
-    * [Michael Pemulis](/characters/Pemulis)
-    * [Ortho ('The Darkness') Stice](/characters/Ortho)
-    * [Kyle D. Coyle](/characters/Coyle)
-    * [Trevor ('Axhandle') Axford](/characters/Axford)
-    * ___ [Schacht](/characters/Schacht)
-    * ___ Struck
-      * ocassional Sox cap, braces (pp. 638)
-    * Otis P. Lord
-    * Evan Ingersoll
-    * Josh Gopnik
-    * J.J. Penn
-    * Ann Kittenplan
-    * Todd Possalthwaite
-    * LaMont Chu
-    * Timmy ('Sleepy T.P.') Peterson
-    * Petropolis Kahn ('Wooly Mammoth')
-    * Tina Echt (7 y.o., tiny)
-    * Erica Siress
-    * Jolene Criess
-    * Idris Arsalanian
-    * Keith ('The Viking') Freer
+    * Arsalanian, Idris
+    * [Axford, Trevor ('Axhandle')](/characters/Axford)
+    * Blott, Kent
+    * Chu, LaMont
+    * [Coyle, Kyle D.](/characters/Coyle)
+    * Criess, Jolene
+    * Echt, Tina (7 y.o., tiny)
+    * Freer, Keith ('The Viking')
       * and but only Freer calls himself 'The Viking'
       * hails from Maryland (pp. 638)
-    * Eliot Kornspan
-    * ('Tall') Paul Shaw
-    * Barnard Makulic
+    * Gopnik, Josh
+    * Ingersoll, Evan
+    * Kahn, Petropolis ('Wooly Mammoth')
+    * Kent, (U.S.S.) Millicent
+    * Kittenplan, Ann
+    * Kornspan, Eliot
+    * Lord, Otis P.
+    * Makulic, Barnard
+    * McKenna, Kiernan
+    * [Pemulis, Michael](/characters/Pemulis)
+    * Penn, J.J.
+    * Peterson, Timmy ('Sleepy T.P.')
+    * Possalthwaite, Todd
+    * [Schacht, ___](/characters/Schacht)
+    * Shaw, ('Tall') Paul
+    * Siress, Erica
+    * [Stice, Ortho ('The Darkness')](/characters/Ortho)
+    * Struck, ___
+      * ocassional Sox cap, braces (pp. 638)
+    * Tallat-Kelpsa, Andern
+    * Traub, Philip
+    * [Troeltsch, Jim](/characters/Jim_Troeltsch)
+    * Whale, Carl
   * faculty/staff
     * [Charles Tavis](/characters/CT) (head master)
-    * Gerhardt Schtitt
+    * Gerhardt Schtitt (head coach)
+    * Aubrey deLint (asst. coach)
     * Tex Watson (prorector)
     * [Corbett Thorpe](/characters/Corbett_Thorpe) (prorector)
     * Mlle. Thierry Poutrincourt (prorector)
@@ -101,3 +108,4 @@ title: Characters
 * [M. Hugh "Helen" Steeply](/characters/Steeply)
 * Ferocious Francis (Boston AA)
 * [Clipperton](/characters/Clipperton)
+* [Marlon Bain](/characters/Marlon_Bain)

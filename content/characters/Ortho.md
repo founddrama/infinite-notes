@@ -7,6 +7,8 @@ Ortho ('The Darkness') Stice
 
 Promising young athlete (say... #2?) at [ETA](/places/ETA).
 
+Left-handed.
+
 * Hails from Partridge, KS
   * 1 of 7 kids ('The Brood')
   * his folks are allegedly a mess ('star-crossed')

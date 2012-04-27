@@ -5,11 +5,14 @@ title: Hal Incandenza
 Harold James (Hal) Incandenza
 -----------------------
 
-Our nominal narrator and (anti?) hero. Aged 17 during much of "the action" of the story, the events during YDAU.
+Our nominal narrator and (anti?) hero. Aged 17 during much of "the action" of
+the story, the events during YDAU. Left-handed.
 
 <h3><em>I cannot make myself understood.</em></h3>
 
-Novel opens with Hal's first-person narration. November in the Year of Glad, down at the University of Arizona; his smile is more of a grimace, his words are incomprehensible.
+Novel opens with Hal's first-person narration. November in the Year of Glad,
+down at the University of Arizona; his smile is more of a grimace, his words are
+incomprehensible.
 
 > "I ate this."
 
