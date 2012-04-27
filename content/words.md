@@ -14,6 +14,7 @@ title: Words
 * concupiscence
 * [creātus](http://en.wiktionary.org/wiki/creatus)
 * deliquesce - *become liquid*
+* deuteragonist
 * dipsomaniacal
 * effete
 * escutcheon
@@ -38,7 +39,8 @@ title: Words
 * "rodneys" (pp. 246)
   * *ed. note:* can find no working definition
   * "rodneys and gum" (<del>so...: condoms? candy?</del> *cigarettes* pp. 522)
- * saprogenic
+* saprogenic
+* sartorially
 * *sui testator* ([source](http://petebaer.blogspot.com/2008/12/notes-from-jest-pages-32-64.html))
   * «as near as I can tell, this is Latin for “in its own creator of a valid will”»
 * tulle

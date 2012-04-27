@@ -21,9 +21,12 @@ title: Characters
   * [Poor Tony Krause](/characters/Poor_Tony)
 * E.T.A.
   * students
+    * Abram, Shoshana
     * Arsalanian, Idris
     * [Axford, Trevor ('Axhandle')](/characters/Axford)
+    * Bash, Jennie
     * Blott, Kent
+    * Boone, Bridget
     * Chu, LaMont
     * [Coyle, Kyle D.](/characters/Coyle)
     * Criess, Jolene
@@ -32,11 +35,13 @@ title: Characters
       * and but only Freer calls himself 'The Viking'
       * hails from Maryland (pp. 638)
     * Gopnik, Josh
+    * Holt, Gretchen
     * Ingersoll, Evan
     * Kahn, Petropolis ('Wooly Mammoth')
     * Kent, (U.S.S.) Millicent
     * Kittenplan, Ann
     * Kornspan, Eliot
+    * Longley, Bernadette
     * Lord, Otis P.
     * Makulic, Barnard
     * McKenna, Kiernan
@@ -44,16 +49,21 @@ title: Characters
     * Penn, J.J.
     * Peterson, Timmy ('Sleepy T.P.')
     * Possalthwaite, Todd
+    * Prins, Diane
+    * Redondo, Guglielmo
+    * Reynes, Esteban
     * [Schacht, ___](/characters/Schacht)
     * Shaw, ('Tall') Paul
     * Siress, Erica
     * [Stice, Ortho ('The Darkness')](/characters/Ortho)
-    * Struck, ___
+    * [Struck, ___](/characters/Struck)
       * ocassional Sox cap, braces (pp. 638)
     * Tallat-Kelpsa, Andern
     * Traub, Philip
     * [Troeltsch, Jim](/characters/Jim_Troeltsch)
+    * Unwin, Frannie
     * Whale, Carl
+    * Zweig, Felicity
   * faculty/staff
     * [Charles Tavis](/characters/CT) (head master)
     * Gerhardt Schtitt (head coach)
@@ -74,28 +84,28 @@ title: Characters
     * Kenkle &amp; Brand (janitors)
 * Ennet House Drug and Alcohol Recovery House (*sic*)
   * residents
-    * [Bruce Green](/characters/Bruce_Green)
-    * [Erdedy](/characters/Erdedy)
-    * [Kate Gompert](/characters/Kate_Gompert)
-    * [Tiny Ewell](/characters/Tiny_Ewell)
-    * [Randy Lenz](/characters/Randy_Lenz)
-    * [Geoffrey Day](/characters/Geoffrey_Day)
-    * Hester Thrale
-    * Emil Minty
-    * Burt F. Smith
-    * [Nell Gunther](/characters/Nell_Gunther)
-    * Doony Glynn
-      * (the worker's comp guy)
-    * Wade McDade
-    * April Cortelyn
-    * Amy J.
-    * [Joelle Van Dyne](/characters/Joelle)
-    * Clenette Henderson
-    * Didi Neaves
-    * Chandler Foss
+    * Cortelyu, April
+    * [Day, Geoffrey](/characters/Geoffrey_Day)
+    * Diehl, Gavin
+    * [Erdedy, Ken](/characters/Erdedy)
+    * [Ewell, Tiny](/characters/Tiny_Ewell)
+    * Foss, Chandler
       * possibly having an in-House relationship with April?
-    * Yolanda W.
-    * Gavin Diehl
+    * Glynn, Doony (the worker's comp guy)
+    * [Gompert, Kate](/characters/Kate_Gompert)
+    * [Green, Bruce](/characters/Bruce_Green)
+    * [Gunther, Nell](/characters/Nell_Gunther)
+    * Henderson, Clenette
+    * J., Amy
+    * [Lenz, Randy](/characters/Randy_Lenz)
+    * McDade, Wade
+    * Minty, Emil (*not* a streetname?)
+    * Neaves, Didi
+    * Smith, Burt F.
+    * Thrale, Hester
+    * van Cleve, Ruth
+    * [van Dyne, Joelle](/characters/Joelle)
+    * W., Yolanda
   * staff
     * Pat Montesian (director)
     * Annie Parrot (asst. director)
@@ -109,3 +119,4 @@ title: Characters
 * Ferocious Francis (Boston AA)
 * [Clipperton](/characters/Clipperton)
 * [Marlon Bain](/characters/Marlon_Bain)
+* [Matty Pemulis](/characters/Matty_Pemulis)

@@ -25,3 +25,4 @@ Joelle Van Dyne
 * while at B.U. becomes obsessed with film
   * [Orin](/characters/Orin) introduces her to [Himself's](/characters/Himself)
     *Pre-Nuptial Agreement Between Heaven and Hell*
+* dreamed that [Gately](/characters/Don_Gately) was her dentist (pp. 724)

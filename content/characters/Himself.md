@@ -7,10 +7,14 @@ James O. Incandenza (Himself; the Mad/Sad Stork)
 
 The patriarch of the Incandenza family.
 
-* persistent hallucination that [Hal](/characters/Hal) does not speak
+* communication problems of all kinds, apparently
+  * persistent hallucination that [Hal](/characters/Hal) does not speak
+  * tells [Joelle](/characters/Joelle) that he cannot speak to his "undamaged"
+    sons w/o the presence and mediation of [Avril](/characters/Avril)
 * pp. 31 - implication that he has "an entertainment cartridge" implanted in his skull
-  * Hal + John N.R. Wayne + Gately dig up his head? for that? (what is it?)
-* indicated that he did some important work toward "cold annular fusion"
+  * Hal + John ('N.R.'') Wayne + [Gately](/characters/Don_Gately) dig up his
+    head? for that? (what is it?)
+* indicated that he did some important work toward ["cold annular fusion"](/misc/annular_fusion)
   * not explicit BUT : easy to interpret from those part of the narrative that
     Himself would have patents -- and thus: that explains why the family is so
     well-off

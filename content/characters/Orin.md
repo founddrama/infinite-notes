@@ -42,3 +42,16 @@ and but so then it gets ruined through a rather ravishing injury.
 "12 and 16" (pp. 244)
 
 Orin is obsessed with bedding young mothers. (pp. 245)
+
+<h3>Orin and [The Entertainment](/misc/The_Entertainment)</h3>
+
+The A.F.R. believe... (pp. 723)
+
+* that Orin has (or has knowledge of) a master copy of *Infinite Jest*
+  * *i.e.*, [The Entertainment](/misc/The_Entertainment)
+* that M. DuPlessis had received *his* copy of The Enterainment from Orin
+  * (any other text to support this?)
+* which begs the question: how did Orin get involved w/ M. DuPlessis?
+  * and what was his motivation for leaking it to him?
+* and which also suggests: that M. DuPlessis' copy of the The Entertainment
+  leaked to "outside" during [Gately's](/characters/Don_Gately) botched robbery
