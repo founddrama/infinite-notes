@@ -33,6 +33,7 @@ title: Words
 * <del>phylacteryish</del> <ins>phylactery</ins>
   * ([Tefillin](http://en.wikipedia.org/wiki/Tefillin))
 * pleurisy
+* propitiate
 * "rodneys" (pp. 246)
   * *ed. note:* can find no working definition
   * "rodneys and gum" (<del>so...: condoms? candy?</del> *cigarettes* pp. 522)

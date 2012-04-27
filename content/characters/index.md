@@ -26,7 +26,9 @@ title: Characters
     * [Ortho ('The Darkness') Stice](/characters/Ortho)
     * [Kyle D. Coyle](/characters/Coyle)
     * [Trevor ('Axhandle') Axford](/characters/Axford)
-    * [Schacht](/characters/Schacht)
+    * ___ [Schacht](/characters/Schacht)
+    * ___ Struck
+      * ocassional Sox cap, braces (pp. 638)
     * Otis P. Lord
     * Evan Ingersoll
     * Josh Gopnik
@@ -34,11 +36,18 @@ title: Characters
     * Ann Kittenplan
     * Todd Possalthwaite
     * LaMont Chu
-    * Timmy Peterson
+    * Timmy ('Sleepy T.P.') Peterson
     * Petropolis Kahn ('Wooly Mammoth')
     * Tina Echt (7 y.o., tiny)
     * Erica Siress
     * Jolene Criess
+    * Idris Arsalanian
+    * Keith ('The Viking') Freer
+      * and but only Freer calls himself 'The Viking'
+      * hails from Maryland (pp. 638)
+    * Eliot Kornspan
+    * ('Tall') Paul Shaw
+    * Barnard Makulic
   * faculty/staff
     * [Charles Tavis](/characters/CT) (head master)
     * Gerhardt Schtitt
@@ -52,6 +61,7 @@ title: Characters
     * "Lateral" Alice Moore
       * origin story pp. 310
     * Dolores Rusk (psychologist)
+    * F.D.V. Harde (facilities/grounds crew manager)
   * misc.
     * [Lyle](/characters/Lyle)
     * Kenkle &amp; Brand (janitors)
@@ -73,6 +83,12 @@ title: Characters
     * April Cortelyn
     * Amy J.
     * [Joelle Van Dyne](/characters/Joelle)
+    * Clenette Henderson
+    * Didi Neaves
+    * Chandler Foss
+      * possibly having an in-House relationship with April?
+    * Yolanda W.
+    * Gavin Diehl
   * staff
     * Pat Montesian (director)
     * Annie Parrot (asst. director)
