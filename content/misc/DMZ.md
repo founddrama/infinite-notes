@@ -9,4 +9,4 @@ DMZ
 
 > ...like LSD that has *itself* dropped LSD...
 
-Is DMZ even real?
+*Ed. note:* DMZ is a fictional hallucinogen
