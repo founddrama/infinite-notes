@@ -9,6 +9,9 @@ The patriarch of the Incandenza family.
 
 * communication problems of all kinds, apparently
   * persistent hallucination that [Hal](/characters/Hal) does not speak
+    * Himself's ghost admits to [Gately](/characters/Don_Gately) that Hal was
+      most like him (Himself) and had become fearful that Hal was becoming a
+      figurant
   * tells [Joelle](/characters/Joelle) that he cannot speak to his "undamaged"
     sons w/o the presence and mediation of [Avril](/characters/Avril)
 * pp. 31 - implication that he has "an entertainment cartridge" implanted in his skull
@@ -18,6 +21,9 @@ The patriarch of the Incandenza family.
   * not explicit BUT : easy to interpret from those part of the narrative that
     Himself would have patents -- and thus: that explains why the family is so
     well-off
+* often rendered impotent with this obsessive idea that the world had a finite
+  number of erections (i.e., only so many boners for the whole world) and he did
+  not want any wasted on himself
 
 <h3>on Himself's Father</h3>
 
@@ -52,3 +58,7 @@ See fn. 24: pp. 985-993
 * *Infinite Jest* (V)
   * "completion of (IV)"
   * (prev. version(s) unfilmable?)
+  * (possibly version IV?)
+  * **motivation:** to coax Hal into *feeling* and *conversing*, to create
+    something that was *more* than something that Hal could 'simply master and
+    move on'

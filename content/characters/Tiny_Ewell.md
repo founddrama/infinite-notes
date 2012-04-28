@@ -2,7 +2,7 @@
 title: Tiny Ewell
 ---
 
-Tiny Ewell
+Eldred ('Tiny') Ewell
 ----------
 
 1st appearance pp. 85
@@ -18,3 +18,5 @@ YDAU
   * discussion of Randy Lenz's "PAMELA" tattoo (pp. 207)
     * Lenz as having no recollection of Pamela, nor any recollection of getting
       the tattoo
+* first person to visit Gately at St. Elizabeth's and confide
+  * confides a childhood story (3rd grade) re: 'The Money Stealers Club' (pp. 809)

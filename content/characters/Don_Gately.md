@@ -48,9 +48,35 @@ Some lengthy discussion (couched in/around Gately's own experience of same) of:
 
 <h3>Childhood and Family</h3>
 
+* for a while he and his mother lived in a beach house, but they were only able
+  to afford the rent because it had a huge gaping hole in the roof that the
+  owner had simply covered with plastic (pp. 800)
 * nicknamed "Bim" or "Bimmy"
   * his mother called him that
     * because she heard the neighborhood kids calling him that
   * he didn't have the heart to tell her
     * it stood for **Big Indestructible Moron** (pp. 448)
 * "Sir Osis of Thuliver" (pp. 449)
+
+<h3>Hospitalized at St. Elizabeth's</h3>
+
+*unsure of the day when he regains consciousness...*
+
+* briefly shares a room with Otis P. Lord
+* [Ewell](/characters/Tiny_Ewell) visits him and confides
+* Pat M. visits him, assures him that everything will be OK, that they at Ennet
+  House take care of their own (implying that she is running interference for
+  him w/r/t/ the Finest etc.)
+* [Calvin Thrust](/characters/Calvin_Thrust) comes and gives him an update
+  * this update includes everything that happens *after* Gately got shot and
+    lost consciousness -- so we (as readers) do get that part of the story, but
+    we get it as told by Thrust
+* and there's Gately, shot and toxemic and refusing pain medication, absolutely
+  miserable and all he can think about (while Thrust is talking) is: 
+  *Who is cooking the dinner at the house?*
+* [Geoffrey Day](/characters/Geoffrey_Day) visits Gately and confides
+* Gately is visited by [Himself's](/characters/Himself) <del>ghost</del>
+  *wraith* (pp. 829)
+  * **figurants** (pp. 835)
+* Gately dreams a dream-like and embellished (and but highly personal) version
+  of [<em>Infinite Jest</em>](/misc/The_Entertainment)

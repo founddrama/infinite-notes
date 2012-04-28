@@ -43,3 +43,5 @@ Lenz kills animals by:
 * slitting their throars with his X444 Browning knife (dogs)
 
 Lenz visualizes (but does not commit) the murder of a homeless man.
+
+Ultimate fate: kidnapped by Marathe et al. and convinced to watch [The Entertainment](/misc/The_Entertainment)

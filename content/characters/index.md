@@ -81,42 +81,52 @@ title: Characters
     * F.D.V. Harde (facilities/grounds crew manager)
   * misc.
     * [Lyle](/characters/Lyle)
-    * Kenkle &amp; Brand (janitors)
+    * Kenkle &amp; Brandt (graveyard shift janitors)
 * Ennet House Drug and Alcohol Recovery House (*sic*)
   * residents
+    * Belbin, Jennifer
     * Cortelyu, April
     * [Day, Geoffrey](/characters/Geoffrey_Day)
     * Diehl, Gavin
     * [Erdedy, Ken](/characters/Erdedy)
-    * [Ewell, Tiny](/characters/Tiny_Ewell)
+    * [Ewell, Eldred ('Tiny')](/characters/Tiny_Ewell)
     * Foss, Chandler
       * possibly having an in-House relationship with April?
     * Glynn, Doony (the worker's comp guy)
     * [Gompert, Kate](/characters/Kate_Gompert)
     * [Green, Bruce](/characters/Bruce_Green)
     * [Gunther, Nell](/characters/Nell_Gunther)
+    * Hanley, Morris (current resident? or alum?)
     * Henderson, Clenette
     * J., Amy
+    * K., Dave (an ATHSCME exec)
     * [Lenz, Randy](/characters/Randy_Lenz)
     * McDade, Wade
     * Minty, Emil (*not* a streetname?)
     * Neaves, Didi
+    * Parias-Carbo, Alfonso
     * Smith, Burt F.
     * Thrale, Hester
+    * Tingley, ___ (the kid in the closet)
     * van Cleve, Ruth
     * [van Dyne, Joelle](/characters/Joelle)
-    * W., Yolanda
+    * Willis, Yolanda
   * staff
     * Pat Montesian (director)
     * Annie Parrot (asst. director)
     * [Don Gately](/characters/Don_Gately) (live-in staff)
     * Johnette Foltz (live-in staff)
-    * Calvin Thrust
+    * [Calvin Thrust](/characters/Calvin_Thrust)
     * [Gene M.](/characters/Gene_M) (Eugenio Martinez)
     * Danielle Steenbok
       * "leggy alumna and part-time counselor" (pp. 462)
+* White Flaggers
+  * Ferocious Francis (Boston AA)
+  * Bud O.
+  * Glenn K.
+  * Jack J.
 * [M. Hugh "Helen" Steeply](/characters/Steeply)
-* Ferocious Francis (Boston AA)
 * [Clipperton](/characters/Clipperton)
 * [Marlon Bain](/characters/Marlon_Bain)
 * [Matty Pemulis](/characters/Matty_Pemulis)
+* Molly Notkin

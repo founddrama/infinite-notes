@@ -30,8 +30,10 @@ title: Words
 * [leptosomatic](http://medical-dictionary.thefreedictionary.com/leptosomatic) - *slender, light, or slim body*wo
 * Merry Widow - *a type of [corselet](http://en.wikipedia.org/wiki/Corselet)*
 * misprision
+* olla podrida
 * palestra
 * **paroxysmic** • *paroxysm* : "a sudden attack or violent expression of a particular emotion or activity"
+* parturient
 * <del>phylacteryish</del> <ins>phylactery</ins>
   * ([Tefillin](http://en.wikipedia.org/wiki/Tefillin))
 * pleurisy

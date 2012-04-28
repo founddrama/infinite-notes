@@ -15,4 +15,16 @@ An unfilmable (???) film, created by [Himself](/characters/Himself). Said to be
   * return address points to Phoenix, AZ
   * the cartridge is otherwise unmarked
 
-Marathe and Steeply discuss theories about it. (pp. 490-491)
+<h3>What's it about?</h3>
+* Marathe and Steeply discuss theories about it. (pp. 490-491)
+  * mostly around it being ultimately entertaining
+  * (and then there's Marathe's political screed about passivity)
+* Molly Notkin's description which (presumably) comes from
+  [Joelle](/characters/Joelle) (pp. 788)
+  * that it otherwise sounds like a self-important (boring) art film with a
+    technical trick that only an optics genius could love
+  * that it involves Joelle (naked and but veiled or otherwise facially
+    distorted) talking (literally) *down* to the camera (again: fitted with some
+    kind of crazy special lens) and going into some monologue about how death is
+    always a woman, and how that woman is always your mother in your next life
+  * titled either *Infinite Jest (V)* or *...(VI)*

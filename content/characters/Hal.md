@@ -68,6 +68,15 @@ re: Hal's paper on advertising (esp. w/r/t/ V+V ad spots for NoCoat tongue scrap
 
 <hr />
 
+Textually: passages / sections that are "first person Hal" (w/r/t/ POV) are
+sections where Hal "cannot make [himself] understood"; example:
+
+* the opening passage in AZ
+* when Ortho thinks he's crying
+* when Kenkle and Brandt think he's laughing
+
+<hr />
+
 THEORY: Hal as HAL
 ------------------
 * Hal : HAL 9000 :: Himself : Stanley Kubrick
