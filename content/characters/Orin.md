@@ -55,3 +55,10 @@ The A.F.R. believe... (pp. 723)
   * and what was his motivation for leaking it to him?
 * and which also suggests: that M. DuPlessis' copy of the The Entertainment
   leaked to "outside" during [Gately's](/characters/Don_Gately) botched robbery
+
+AND/BUT: does this perhaps suggest that Orin has more to do with The
+Entertainment than appears? Could he be the one mailing them around to people?
+
+<h3>(Pen?)ultimate Fate</h3>
+
+Orin in a huge glass tumbler surrounded by Luria P.--- and (someone else?) (pp. 971-972)

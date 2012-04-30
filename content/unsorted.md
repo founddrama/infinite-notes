@@ -20,6 +20,7 @@ Unsorted / Miscellaneous
 * http://infinitejest.wallacewiki.com/david-foster-wallace/index.php?title=Main_Page
 * [Infinite Summer](http://infinitesummer.org/)
 * [scene-by-scene guide](http://faculty.sunydutchess.edu/oneill/Infinite.htm)
+* [What Happens at the End of Infinite Jest? (or, the Infinite Jest ending explained)](http://www.aaronsw.com/weblog/ijend)
 
 <h3>and on Delicious.com</h3>
 <script type="text/javascript" src="http://feeds.delicious.com/v2/js/founddrama/Infinite%20Jest?fancy&title&count=100&sort=date&tags&extended"></script>

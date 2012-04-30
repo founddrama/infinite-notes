@@ -9,6 +9,8 @@ Don Gately
 128 kg. (282 lb.)
 (pp. 469)
 
+**NOT** left-handed (pp. 884)
+
 Thief and drug addict, among other things.
 
 Murdered (though not on purpose?) Guillaume DuPlessis. (Though Gately's murder
@@ -41,6 +43,10 @@ Some lengthy discussion (couched in/around Gately's own experience of same) of:
 
 (pp. 443)
 
+Gately's main addiction is actually with oral narcotics (and Demerol in
+particular), but decides to go the AA route instead of NA. (*Ed. note:* go back
+and find the citation for this that contains the reason why.)
+
 <h3>Pre-Ennet House</h3>
 
 * a girlfriend: Pamela Hoffman-Jeep (pp. 465)
@@ -57,6 +63,8 @@ Some lengthy discussion (couched in/around Gately's own experience of same) of:
   * he didn't have the heart to tell her
     * it stood for **Big Indestructible Moron** (pp. 448)
 * "Sir Osis of Thuliver" (pp. 449)
+* First gets high (smokes a 'desBois') at age 9 (pp. 903)
+  * and then (incidentally) watches footage of the Rodney King beatings
 
 <h3>Hospitalized at St. Elizabeth's</h3>
 
@@ -80,3 +88,9 @@ Some lengthy discussion (couched in/around Gately's own experience of same) of:
   * **figurants** (pp. 835)
 * Gately dreams a dream-like and embellished (and but highly personal) version
   of [<em>Infinite Jest</em>](/misc/The_Entertainment)
+* Gately dreams/hallucinates a visit from Ferocious Francis that gets
+  interrupted by a Pakistani MD that keeps describing Gately's pain, and how the
+  pain is going to get worse, and then keeps offering him (Gately) various
+  powerful narcotics for the pain
+* McDade and Diehl visit, but aren't there to confide, and brought a 'promoted'
+  Get Well Soon card (unsigned)

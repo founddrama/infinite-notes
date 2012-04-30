@@ -20,6 +20,7 @@ title: Words
 * escutcheon
 * *Gaudeamus Igitur* (Latin)
   * roughly: "let us rejoice"
+* ghostwords
 * [homolosine](http://en.wikipedia.org/wiki/Homolosine)
 * howling fantods (pp. 45)
 * Kekuléan knot
@@ -31,6 +32,7 @@ title: Words
 * Merry Widow - *a type of [corselet](http://en.wikipedia.org/wiki/Corselet)*
 * misprision
 * olla podrida
+* ommatophoric
 * palestra
 * **paroxysmic** • *paroxysm* : "a sudden attack or violent expression of a particular emotion or activity"
 * parturient

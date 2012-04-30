@@ -19,6 +19,8 @@ Left-handed.
 Roommate is [Kyle D. Coyle](/characters/Coyle)
 
 Implies (to [Hal](/characters/Hal)) that [Troeltsch](/characters/Jim_Troeltsch)
-and [Axford](/characters/Axford) might be sleepign together. (pp. 869)
+and [Axford](/characters/Axford) might be sleeping together. (pp. 869)
 
 Gets his forehead stuck to the window (20 Nov YDAU)
+
+Visited by [Himself's ghost](/characters/Himself)? Haunted by? Possessed by?

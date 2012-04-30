@@ -8,9 +8,8 @@ title: Characters
   * [Orin](/characters/Orin)
   * [Hal](/characters/Hal)
   * [Mario](/characters/Mario)
-* Quebecois Separatists
-  * Avril?
-  * M. DuPlessis 
+* Les Assassins en Fauteuils Roulants (Quebecois Separatists)
+  * Guillaume DuPlessis
   * Luria P.--
   * [Antitoi Bros.](/characters/Antitoi_Brothers)
   * [Marathe](/characters/Marathe)
@@ -30,6 +29,8 @@ title: Characters
     * Chu, LaMont
     * [Coyle, Kyle D.](/characters/Coyle)
     * Criess, Jolene
+    * Csikszentmihalyi, Zoltan
+    * Doucette, Anton ('The Booger')
     * Echt, Tina (7 y.o., tiny)
     * Freer, Keith ('The Viking')
       * and but only Freer calls himself 'The Viking'
@@ -45,17 +46,21 @@ title: Characters
     * Lord, Otis P.
     * Makulic, Barnard
     * McKenna, Kiernan
+    * Pearson, Heath
     * [Pemulis, Michael](/characters/Pemulis)
     * Penn, J.J.
     * Peterson, Timmy ('Sleepy T.P.')
     * Possalthwaite, Todd
     * Prins, Diane
+    * Rader, ___
     * Redondo, Guglielmo
     * Reynes, Esteban
     * [Schacht, ___](/characters/Schacht)
     * Shaw, ('Tall') Paul
     * Siress, Erica
+    * Spodek, Carol
     * [Stice, Ortho ('The Darkness')](/characters/Ortho)
+    * Stott, Donni (*student??*)
     * [Struck, ___](/characters/Struck)
       * ocassional Sox cap, braces (pp. 638)
     * Tallat-Kelpsa, Andern
@@ -75,10 +80,10 @@ title: Characters
     * Neil Hartigan (prorector)
     * Tony Nwangi (prorector)
     * Rik Dunkel (prorector)
-    * "Lateral" Alice Moore
-      * origin story pp. 310
+    * "Lateral" Alice Moore (adminl; origin story pp. 310)
     * Dolores Rusk (psychologist)
     * F.D.V. Harde (facilities/grounds crew manager)
+    * Barry Loach (Head Trainer; origin story pp. 967-971)
   * misc.
     * [Lyle](/characters/Lyle)
     * Kenkle &amp; Brandt (graveyard shift janitors)
@@ -121,9 +126,9 @@ title: Characters
     * Danielle Steenbok
       * "leggy alumna and part-time counselor" (pp. 462)
 * White Flaggers
-  * Ferocious Francis (Boston AA)
+  * Ferocious Francis Gehaney
   * Bud O.
-  * Glenn K.
+  * Glenn Kubitz
   * Jack J.
 * [M. Hugh "Helen" Steeply](/characters/Steeply)
 * [Clipperton](/characters/Clipperton)
