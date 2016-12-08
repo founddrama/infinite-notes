@@ -61,8 +61,8 @@ title: Characters
     * Spodek, Carol
     * [Stice, Ortho ('The Darkness')](/characters/Ortho)
     * Stott, Donni (*student??*)
-    * [Struck, ___](/characters/Struck)
-      * ocassional Sox cap, braces (pp. 638)
+    * [Struck, Jim](/characters/Struck)
+      * occasional Sox cap, braces (pp. 638)
     * Tallat-Kelpsa, Andern
     * Traub, Philip
     * [Troeltsch, Jim](/characters/Jim_Troeltsch)
