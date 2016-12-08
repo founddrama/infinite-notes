@@ -1,8 +1,8 @@
 ---
-title: Struck
+title: Jim Struck
 ---
 
-??? Struck
+James Albrecht Lockley (Jim) Struck
 ----------
 
 A student/player at [ETA](/places/ETA).
