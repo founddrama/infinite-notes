@@ -1,4 +1,4 @@
---- 
+---
 title: Characters
 ---
 
@@ -55,7 +55,7 @@ title: Characters
     * Rader, ___
     * Redondo, Guglielmo
     * Reynes, Esteban
-    * [Schacht, ___](/characters/Schacht)
+    * [Schacht, Ted](/characters/Schacht)
     * Shaw, ('Tall') Paul
     * Siress, Erica
     * Spodek, Carol
