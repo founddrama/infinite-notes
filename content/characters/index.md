@@ -9,7 +9,7 @@ title: Characters
   * [Hal](/characters/Hal)
   * [Mario](/characters/Mario)
 * Les Assassins en Fauteuils Roulants (Quebecois Separatists)
-  * Guillaume DuPlessis
+  * [Guillaume DuPlessis](/characters/DuPlessis)
   * Luria P.--
   * [Antitoi Bros.](/characters/Antitoi_Brothers)
   * [Marathe](/characters/Marathe)
