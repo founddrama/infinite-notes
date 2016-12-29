@@ -1,4 +1,4 @@
---- 
+---
 title: Characters
 ---
 
@@ -9,7 +9,7 @@ title: Characters
   * [Hal](/characters/Hal)
   * [Mario](/characters/Mario)
 * Les Assassins en Fauteuils Roulants (Quebecois Separatists)
-  * Guillaume DuPlessis
+  * [Guillaume DuPlessis](/characters/DuPlessis)
   * Luria P.--
   * [Antitoi Bros.](/characters/Antitoi_Brothers)
   * [Marathe](/characters/Marathe)
@@ -55,7 +55,7 @@ title: Characters
     * Rader, ___
     * Redondo, Guglielmo
     * Reynes, Esteban
-    * [Schacht, ___](/characters/Schacht)
+    * [Schacht, Ted](/characters/Schacht)
     * Shaw, ('Tall') Paul
     * Siress, Erica
     * Spodek, Carol

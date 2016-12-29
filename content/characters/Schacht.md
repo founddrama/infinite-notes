@@ -1,9 +1,9 @@
 ---
-title: Schacht
+title: Ted Schacht
 ---
 
-Schacht
--------
+Ted Schacht
+-----------
 
 * "consummate doubles partners" with Troeltsch
 * suffers from Crohn's
