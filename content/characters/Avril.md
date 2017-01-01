@@ -11,6 +11,9 @@ Mother to [Orin](/characters/Orin), [Mario](/characters/Mario), and [Hal](/chara
 [Himself's](/characters/Himself) widow. "Militant Grammarian". [CT's](/characters/CT)
 step-sister (possibly half-sister?).
 
+Women's representative of ETA.
+Suffers from claustrophobia.
+
 * pp. 64 : ...as involved w/ Quebecois Separatists
 
 <h3>Avril's many extra-marital affairs</h3>
