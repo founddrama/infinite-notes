@@ -81,7 +81,7 @@ title: Characters
     * Tony Nwangi (prorector)
     * Rik Dunkel (prorector)
     * ["Lateral" Alice Moore](/characters/Alice_Moore)
-    * Dolores Rusk (psychologist)
+    * [Dolores Rusk](/characters/Dolores_Rusk)
     * F.D.V. Harde (facilities/grounds crew manager)
     * Barry Loach (Head Trainer; origin story pp. 967-971)
   * misc.

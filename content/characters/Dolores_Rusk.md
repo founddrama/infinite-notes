@@ -6,5 +6,3 @@ Dolores Rusk
 ------------
 
 Psychologist of Enfield Tennis Academy.
-
-
