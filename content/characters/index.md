@@ -80,7 +80,7 @@ title: Characters
     * Neil Hartigan (prorector)
     * Tony Nwangi (prorector)
     * Rik Dunkel (prorector)
-    * "Lateral" Alice Moore (adminl; origin story pp. 310)
+    * ["Lateral" Alice Moore](/characters/Alice_Moore)
     * Dolores Rusk (psychologist)
     * F.D.V. Harde (facilities/grounds crew manager)
     * Barry Loach (Head Trainer; origin story pp. 967-971)
