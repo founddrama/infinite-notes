@@ -4,8 +4,8 @@
 To play along, you'll need:
 
 * a copy of *Infinite Jest*;
-* [nanoc](http://nanoc.stoneship.org/); and
-* [kramdown](http://kramdown.rubyforge.org/)
+* [nanoc](https://nanoc.ws/); and
+* [kramdown](https://kramdown.gettalong.org/)
 
 
 What's this all about?
