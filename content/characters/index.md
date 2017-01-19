@@ -21,7 +21,7 @@ title: Characters
 * E.T.A.
   * students
     * Abram, Shoshana
-    * Arsalanian, Idris
+    * [Arslanian, Idris](/characters/Idris_Arslanian)
     * [Axford, Trevor ('Axhandle')](/characters/Axford)
     * Bash, Jennie
     * Blott, Kent
