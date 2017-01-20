@@ -21,7 +21,7 @@ title: Characters
 * E.T.A.
   * students
     * Abram, Shoshana
-    * Arsalanian, Idris
+    * [Arslanian, Idris](/characters/Idris_Arslanian)
     * [Axford, Trevor ('Axhandle')](/characters/Axford)
     * Bash, Jennie
     * Blott, Kent
@@ -80,8 +80,8 @@ title: Characters
     * Neil Hartigan (prorector)
     * Tony Nwangi (prorector)
     * Rik Dunkel (prorector)
-    * "Lateral" Alice Moore (adminl; origin story pp. 310)
-    * Dolores Rusk (psychologist)
+    * ["Lateral" Alice Moore](/characters/Alice_Moore)
+    * [Dolores Rusk](/characters/Dolores_Rusk)
     * F.D.V. Harde (facilities/grounds crew manager)
     * Barry Loach (Head Trainer; origin story pp. 967-971)
   * misc.

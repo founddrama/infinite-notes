@@ -11,3 +11,6 @@ on the optics scholarship; *not* much of a tennis player (when compared to his
 rather elite peers).
 
 Greatest fear: explusion from ETA.
+
+Hates ETA psychologist [Dolores Rusk](/characters/Dolores_Rusk). The origin of his hate is quite hazy; he always
+enumerates various obvious reasons to Hal.
